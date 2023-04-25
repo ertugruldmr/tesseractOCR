@@ -13,7 +13,7 @@
  
 ## __Table Of Content__
 - [__Abstract__](#abstract)
-- [__Demo__](#demo) -> [Live Demo]()
+- [__Demo__](#demo) -> [Live Demo](https://ertugruldemir-tesseractocr.hf.space)
 - [__Explanation of the study__](#explanation-of-the-study)
   - [__(A) Dependencies__](#a-dependencies)
   - [__(B) Dataset__](#b-dataset)
@@ -63,16 +63,16 @@
   <table>
     <tr>
     <td>
-        <a target="_blank" href="" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
+        <a target="_blank" href="https://ertugruldemir-tesseractocr.hf.space" height="30"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30">[Demo app] HF Space</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/1ejhIyCW4Kckm8zs-1easmV1H9VlYcrrq"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Demo app] Run in Colab</a>
       </td>
       <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
+        <a target="_blank" href="https://github.com/ertugruldmr/tesseractOCR/blob/main/study.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png">[Traning pipeline] source on GitHub</a>
       </td>
     <td>
-        <a target="_blank" href=""><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
+        <a target="_blank" href="https://colab.research.google.com/drive/18Lzlr4uCZ_-MEVZb6_odL-73UUtsvl7e#scrollTo=2HHoU0TwYc-N"><img src="https://www.tensorflow.org/images/colab_logo_32px.png">[Traning pipeline] Run in Colab</a>
       </td>
     </tr>
   </table>
@@ -83,11 +83,11 @@
     -  __recognite character__ from image data.
     - __Usage__: 
       - upload your text then clict the button for extraction
-- Embedded [Demo]() window from HuggingFace Space
+- Embedded [Demo](https://ertugruldemir-tesseractocr.hf.space) window from HuggingFace Space
     
 
 <iframe
-	src=""
+	src="https://ertugruldemir-tesseractocr.hf.space"
 	frameborder="0"
 	width="850"
 	height="450"
@@ -110,7 +110,7 @@
     - Usage: upload your image for character recognition then use the button to predict.
   - Demo
     - The demo app in the demo_app folder as an individual project. All the requirements and dependencies are in there. You can run it anywhere if you install the requirements.txt.
-    - You can find the live demo as huggingface space in this [demo link]() as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
+    - You can find the live demo as huggingface space in this [demo link](https://ertugruldemir-tesseractocr.hf.space) as full web page or you can also us the [embedded demo widget](#demo)  in this document.  
 
 <h1 style="text-align: center;">Connection Links</h1>
 
